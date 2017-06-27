@@ -16,11 +16,17 @@ Options
 ------------
 
 cursor-thickness : controls the width of the cursor.
+
 typing-speed : controls the typing speed of a character.
+
 backspace : Provide "yes" to delete the current word.
+
 delete-speed : controls the speed of character deletion.
+
 pause-before : Wait for that particular interval before start typing.
+
 pause-aftert : Wait for that particular interval after typing.
+
 loop : Provide "yes" if you want to repeat the process.
 
 
