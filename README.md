@@ -1,4 +1,6 @@
 
+A simple javascript tool to add a typewriter like effect in the text.
+
 Installation
 ------------
 
@@ -10,6 +12,8 @@ Include the js and css fles,add an id "typewriter" on the tag, provide options a
 
 <span id="typewriter" cursor-thickness="5" typing-speed="100" backspace="yes" delete-speed="20" pause-before="500"  pause-after="1000" loop="yes">programming|javascript</span>
 ~~~
+
+Use the symbol "|" to seperate the text
 
 
 Options
