@@ -1,0 +1,8 @@
+#typewriter {
+            position: relative;
+            border-right: solid 5px black;
+            font-size: 50px;
+            padding-right: 3px;
+            margin-right: 5px;
+            transition: all 0.2s;
+        }
