@@ -30,4 +30,6 @@ pause-aftert : Wait for that particular interval after typing.
 loop : Provide "yes" if you want to repeat the process.
 
 
+
+
 Note: Speed values in the options are actually time hence less time means more speed.
