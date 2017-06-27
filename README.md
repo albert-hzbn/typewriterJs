@@ -15,21 +15,13 @@ Include the js and css fles,add an id "typewriter" on the tag, provide options a
 Options
 ------------
 
-cursor-thickness : controls the width of the cursor.
+cursor-thickness : controls the width of the cursor.</br>
+typing-speed : controls the typing speed of a character.</br>
+backspace : Provide "yes" to delete the current word.</br>
+delete-speed : controls the speed of character deletion.</br>
+pause-before : Wait for that particular interval before start typing.</br>
+pause-aftert : Wait for that particular interval after typing.</br>
+loop : Provide "yes" if you want to repeat the process.</br>
 
-typing-speed : controls the typing speed of a character.
-
-backspace : Provide "yes" to delete the current word.
-
-delete-speed : controls the speed of character deletion.
-
-pause-before : Wait for that particular interval before start typing.
-
-pause-aftert : Wait for that particular interval after typing.
-
-loop : Provide "yes" if you want to repeat the process.
-
-
-
-
+</br>
 Note: Speed values in the options are actually time hence less time means more speed.
